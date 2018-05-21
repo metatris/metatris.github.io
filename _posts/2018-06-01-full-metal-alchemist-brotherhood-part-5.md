@@ -38,7 +38,7 @@ In the epilogue, we get to see Ed and Al reunited with Winry. Winry jump-glomps 
 
 I've been slowly losing respect for Edward ever since Part 3. Whatever I had left really evaporated during Part 5. 
 
-In the earlier parts of the show, and in the 2003 series, Edward was an alchemic genius who believed in the power of alchemy to accomplish things. His character arc was learning that there were limits to what alchemy could achieve and that sometimes alchemy could have undesirable effects.
+As I mentioned earlier, Edward has developed over the course of the show into a self-righteous moral absolutist who is always proven right when things just magically go his way because the series is published in a weekly shounen magazine and there are editorial policies on this shit. He doesn't really earn any of his moral positions. Nothing we see him go through in the show justifies his belief that killing is always wrong, even when it's a Homunculus. In fact, early on in the show, he won't even consider making a deal with original Greed because original Greed is a Homunculus and therefore definitely evil, yet later on he bends over backwards to save Envy. 
 
 ## Thematic Confusion
 

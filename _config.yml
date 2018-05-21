@@ -33,6 +33,7 @@ plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
@@ -46,8 +47,6 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
